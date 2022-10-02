@@ -23,7 +23,6 @@ body {
   background-color: ${({ theme }) => theme.BgColors.body};
 }
 
-
 li {
   list-style-type: none;
 }
